@@ -1,3 +1,3 @@
-# ATVS_DW3- atv1
+# ATVS_DW3- atv2
 
-Reposittório contendo os arquivos da primeira atividade de desenvolvimento web3
+Reposittório contendo os arquivos da atividade de desenvolvimento web3
